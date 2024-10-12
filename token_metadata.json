@@ -1,7 +1,7 @@
 {
   "name": "Zeno Coin",
   "symbol": "ZNO",
-  "uri": "https://yourdomain.com/metadata.json",
+  "uri": "github.com/codebuild101yt/zeno-config/blob/main/metadata.json",
   "decimals": 9,
-  "logoURI": "https://github.com/codebuild101yt/zeno-config/blob/main/Z.png"
+  "logoURI": "github.com/codebuild101yt/zeno-config/blob/main/Z.png"
 }
