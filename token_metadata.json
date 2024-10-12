@@ -1,0 +1,7 @@
+{
+  "name": "Zeno Coin",
+  "symbol": "ZENO",
+  "uri": "https://yourdomain.com/metadata.json",
+  "decimals": 9,
+  "logoURI": "https://yourdomain.com/logo.png"
+}
